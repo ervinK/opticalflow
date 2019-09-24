@@ -1,0 +1,7 @@
+hid:
+szél: ~7.0
+hossz: 2.5
+
+balastya:
+szél: 3
+hossz: 5.79
